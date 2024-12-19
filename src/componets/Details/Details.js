@@ -2,7 +2,7 @@ const Details = () => {
     return (
       <>
         <div>
-          <h1>Estos son los Detalles</h1>
+          <h1>Detalles del Libro</h1>
         </div>
       </>
     );
