@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "On The Road",
+        "author":"Jack Kerouac",
+        "price": 10,
+        "img": "https://images.app.goo.gl/cLchsAZPUf58juxy6",
+        "quanty": 1
+    },
+
+    {
+        "id": 2,
+        "name": "The Subterraneans",
+        "author":"Jack Kerouac",
+        "price": 20,
+        "img": "https://images.app.goo.gl/kbCWWCL3KGYVQVyc9",
+        "quanty": 1
+    },
+
+    {
+        "id": 3,
+        "name": "Los Guerreros del Infierno de Harlem",
+        "author":"Max Brooks",
+        "price": 20,
+        "img": "https://static.cegal.es/imagenes/marcadas/9788492/978849291597.gif",
+        "quanty": 1
+    },
+
+    {
+        "id": 4,
+        "name": "Guerra Mundial Z",
+        "author":"Max Brooks",
+        "price": 30,
+        "img": "https://images.app.goo.gl/yj5SfZYc2PvZXGkK7",
+        "quanty": 1
+    }
+    
+]
