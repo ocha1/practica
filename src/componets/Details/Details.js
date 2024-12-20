@@ -90,6 +90,7 @@ function BookDetail({ book }) {
       <h3>{book.title}</h3>
       <p>Autor: {book.author}</p>
       <p>Precio: {book.price}</p>
+      <button>Comprar</button>
     </div>
   );
 }
