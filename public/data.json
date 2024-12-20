@@ -1,38 +1,64 @@
 [
     {
         "id": 1,
-        "name": "On The Road",
-        "author":"Jack Kerouac",
-        "price": 10,
-        "img": "https://images.app.goo.gl/cLchsAZPUf58juxy6",
+        "name": "El Amor en los Tiempos del Cólera",
+        "author":"Gabriel Garcia Marquez",
+        "price": 69000,
+        "img": "https://images.cdn3.buscalibre.com/fit-in/360x360/96/2a/962a2176af9fc9b9c89b567f1f7548e8.jpg",
         "quanty": 1
     },
 
     {
         "id": 2,
-        "name": "The Subterraneans",
-        "author":"Jack Kerouac",
-        "price": 20,
-        "img": "https://images.app.goo.gl/kbCWWCL3KGYVQVyc9",
+        "name": "Paraiso Travel",
+        "author":"Jorge Franco",
+        "price": 41400,
+        "img": "https://images.cdn1.buscalibre.com/fit-in/360x360/b3/e0/b3e02aaa4be213b7690cff7b7917c18c.jpg",
         "quanty": 1
     },
 
     {
         "id": 3,
-        "name": "Los Guerreros del Infierno de Harlem",
-        "author":"Max Brooks",
-        "price": 20,
-        "img": "https://static.cegal.es/imagenes/marcadas/9788492/978849291597.gif",
+        "name": "Viaje al Final del Paraiso",
+        "author":"Oscar Pinochet De La Barra",
+        "price": 140000,
+        "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/87/e2/87e296100f2fc1d0a8b7ea0d415b4885.jpg",
         "quanty": 1
     },
 
     {
         "id": 4,
-        "name": "Guerra Mundial Z",
-        "author":"Max Brooks",
-        "price": 30,
-        "img": "https://images.app.goo.gl/yj5SfZYc2PvZXGkK7",
+        "name": "El Tunel",
+        "author":"Ernesto Sabato",
+        "price": 70000,
+        "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/1b/89/1b894384b151e0fb96bc2f4636a82fd4.jpg",
+        "quanty": 1
+    },
+    
+    {
+        "id": 5,
+        "name": "Una Corte de Alas y Ruina",
+        "author":"Sarah J. Maas",
+        "price": 89100,
+        "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/4c/cb/4ccb9141593d19be41765429de111565.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 6,
+        "name": "Julio En Su Salsa",
+        "author":"Tulio Zuloaga",
+        "price": 62100,
+        "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/af/de/afdecc4c56a417ba83ff0b2185212b58.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 7,
+        "name": "A traves de ti",
+        "author":"Ariana Godoy",
+        "price": 55800,
+        "img": "https://images.cdn2.buscalibre.com/fit-in/360x360/a3/8c/a38cebf9cc28e638c4db17106b67a756.jpg",
         "quanty": 1
     }
-    
 ]

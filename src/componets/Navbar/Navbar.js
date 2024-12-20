@@ -11,10 +11,10 @@ const Navbar = () => {
     <div className='nav-container'>
         <nav className='navbar'>
           <Link to={"/"}>
-            <h1 className='navbar-logo'>Shop.</h1>
+            <h1 className='navbar-logo'>😊</h1>
             </Link>
         <Link className='seeCarrito' to={"/cart"}>
-        🛒
+        Tu Carrito 🛒
         {cart.length > 0? <TotalItems /> : null }        
         </Link>
         </nav>  
